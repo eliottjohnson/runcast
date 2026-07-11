@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RunCast</title>
+    <link>https://eliottjohnson.github.io/runcast</link>
+    <description>Personal guided runs, mixed and published by RunCast.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Jul 2026 10:18:32 GMT</lastBuildDate>
+    <generator>RunCast</generator>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>yes</itunes:block>
+    <itunes:author>Eliottlerouge</itunes:author>
+    <itunes:summary>Personal guided runs, mixed and published by RunCast.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Eliottlerouge</itunes:name>
+      <itunes:email>eliott.johnson@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/podcast.jpg"/>
+    <itunes:category text="Health &amp; Fitness"/>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://eliottjohnson.github.io/runcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>10-minute easy run</title>
+      <description>Finish feeling lighter and ready for the day. A 10-minute easy run with personalized coaching.</description>
+      <itunes:summary>Finish feeling lighter and ready for the day. A 10-minute easy run with personalized coaching.</itunes:summary>
+      <itunes:author>Eliottlerouge</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/runcast-77d846294a95.jpg"/>
+      <enclosure url="https://eliottjohnson.github.io/runcast/episodes/runcast-77d846294a95.mp3" length="9788446" type="audio/mpeg"/>
+      <guid isPermaLink="false">77d84629-4a95-4ed8-b205-03ef3e3cf24f</guid>
+      <pubDate>Sat, 11 Jul 2026 10:14:09 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
