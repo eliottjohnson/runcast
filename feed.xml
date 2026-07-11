@@ -7,7 +7,7 @@
     <link>https://eliottjohnson.github.io/runcast</link>
     <description>Personal guided runs, mixed and published by RunCast.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 10:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:07:49 GMT</lastBuildDate>
     <generator>RunCast</generator>
     <itunes:type>episodic</itunes:type>
     <itunes:block>yes</itunes:block>
@@ -21,6 +21,20 @@
     <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/podcast.jpg"/>
     <itunes:category text="Health &amp; Fitness"/>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://eliottjohnson.github.io/runcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>50-minute easy run</title>
+      <description>Finish feeling lighter and ready for the day. A 50-minute easy run with personalized coaching.</description>
+      <itunes:summary>Finish feeling lighter and ready for the day. A 50-minute easy run with personalized coaching.</itunes:summary>
+      <itunes:author>Eliottlerouge</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>00:50:00</itunes:duration>
+      <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/runcast-c0145f32d23f.jpg"/>
+      <enclosure url="https://eliottjohnson.github.io/runcast/episodes/runcast-c0145f32d23f.mp3" length="48188096" type="audio/mpeg"/>
+      <guid isPermaLink="false">c0145f32-d23f-4241-be1a-4a6419334ba4</guid>
+      <pubDate>Sat, 11 Jul 2026 11:01:18 GMT</pubDate>
+    </item>
     <item>
       <title>10-minute easy run</title>
       <description>Finish feeling lighter and ready for the day. A 10-minute easy run with personalized coaching.</description>
