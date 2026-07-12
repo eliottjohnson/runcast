@@ -7,7 +7,7 @@
     <link>https://eliottjohnson.github.io/runcast</link>
     <description>Personal guided runs, mixed and published by RunCast.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 11:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:06:05 GMT</lastBuildDate>
     <generator>RunCast</generator>
     <itunes:type>episodic</itunes:type>
     <itunes:block>yes</itunes:block>
@@ -21,6 +21,20 @@
     <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/podcast.jpg"/>
     <itunes:category text="Health &amp; Fitness"/>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://eliottjohnson.github.io/runcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>55-minute intervals run</title>
+      <description>Hill Strides – Escalade Form. A 55-minute intervals run with personalized coaching.</description>
+      <itunes:summary>Hill Strides – Escalade Form. A 55-minute intervals run with personalized coaching.</itunes:summary>
+      <itunes:author>Eliottlerouge</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>00:55:00</itunes:duration>
+      <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/runcast-4d862e52e4e2.jpg"/>
+      <enclosure url="https://eliottjohnson.github.io/runcast/episodes/runcast-4d862e52e4e2.mp3" length="52986938" type="audio/mpeg"/>
+      <guid isPermaLink="false">4d862e52-e4e2-4bbb-bde4-ad1cb5ecb4b5</guid>
+      <pubDate>Sun, 12 Jul 2026 00:02:27 GMT</pubDate>
+    </item>
     <item>
       <title>50-minute easy run</title>
       <description>Finish feeling lighter and ready for the day. A 50-minute easy run with personalized coaching.</description>
