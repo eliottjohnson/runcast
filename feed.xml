@@ -7,7 +7,7 @@
     <link>https://eliottjohnson.github.io/runcast</link>
     <description>Personal guided runs, mixed and published by RunCast.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 17:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:21:32 GMT</lastBuildDate>
     <generator>RunCast</generator>
     <itunes:type>episodic</itunes:type>
     <itunes:block>yes</itunes:block>
@@ -21,6 +21,20 @@
     <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/podcast.jpg"/>
     <itunes:category text="Health &amp; Fitness"/>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://eliottjohnson.github.io/runcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Post-Holiday Run/Walk 30</title>
+      <description>Follow the written workout plan with calm, accurate coaching. A 30-minute custom run with personalized coaching.</description>
+      <itunes:summary>Follow the written workout plan with calm, accurate coaching. A 30-minute custom run with personalized coaching.</itunes:summary>
+      <itunes:author>Eliottlerouge</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:duration>00:31:27</itunes:duration>
+      <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/runcast-d7a117f49dda.jpg"/>
+      <enclosure url="https://eliottjohnson.github.io/runcast/episodes/runcast-d7a117f49dda.mp3" length="30389498" type="audio/mpeg"/>
+      <guid isPermaLink="false">d7a117f4-9dda-42d7-a138-80d0f6f14f1f</guid>
+      <pubDate>Mon, 24 Aug 2026 13:10:40 GMT</pubDate>
+    </item>
     <item>
       <title>Long Easy Hilly Run - Aerobic Durability</title>
       <description>Follow the written workout plan with calm, accurate coaching. A 45-minute custom run with personalized coaching.</description>
