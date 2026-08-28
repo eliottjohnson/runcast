@@ -7,7 +7,7 @@
     <link>https://eliottjohnson.github.io/runcast</link>
     <description>Personal guided runs, mixed and published by RunCast.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 05:07:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:39:18 GMT</lastBuildDate>
     <generator>RunCast</generator>
     <itunes:type>episodic</itunes:type>
     <itunes:block>yes</itunes:block>
@@ -21,6 +21,20 @@
     <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/podcast.jpg"/>
     <itunes:category text="Health &amp; Fitness"/>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://eliottjohnson.github.io/runcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Easy Frequency 25 - Before Early Duties</title>
+      <description>Follow the written workout plan with calm, accurate coaching. A 25-minute custom run with personalized coaching.</description>
+      <itunes:summary>Follow the written workout plan with calm, accurate coaching. A 25-minute custom run with personalized coaching.</itunes:summary>
+      <itunes:author>Eliottlerouge</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:duration>00:25:45</itunes:duration>
+      <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/runcast-ed44a6ee4c98.jpg"/>
+      <enclosure url="https://eliottjohnson.github.io/runcast/episodes/runcast-ed44a6ee4c98.mp3" length="24945216" type="audio/mpeg"/>
+      <guid isPermaLink="false">ed44a6ee-4c98-444d-9bcd-3ade907fe737</guid>
+      <pubDate>Fri, 28 Aug 2026 06:37:22 GMT</pubDate>
+    </item>
     <item>
       <title>Second Re-entry Easy 35</title>
       <description>Follow the written workout plan with calm, accurate coaching. A 35-minute custom run with personalized coaching.</description>
