@@ -7,7 +7,7 @@
     <link>https://eliottjohnson.github.io/runcast</link>
     <description>Personal guided runs, mixed and published by RunCast.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:08:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:36:43 GMT</lastBuildDate>
     <generator>RunCast</generator>
     <itunes:type>episodic</itunes:type>
     <itunes:block>yes</itunes:block>
@@ -21,6 +21,20 @@
     <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/podcast.jpg"/>
     <itunes:category text="Health &amp; Fitness"/>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://eliottjohnson.github.io/runcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Easy 45 + Four Hill Strides</title>
+      <description>Follow the written workout plan with calm, accurate coaching. A 45-minute custom run with personalized coaching.</description>
+      <itunes:summary>Follow the written workout plan with calm, accurate coaching. A 45-minute custom run with personalized coaching.</itunes:summary>
+      <itunes:author>Eliottlerouge</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+      <itunes:duration>00:46:59</itunes:duration>
+      <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/runcast-7991b60c97c7.jpg"/>
+      <enclosure url="https://eliottjohnson.github.io/runcast/episodes/runcast-7991b60c97c7.mp3" length="45294963" type="audio/mpeg"/>
+      <guid isPermaLink="false">7991b60c-97c7-4ef5-a3e7-2b424eae3221</guid>
+      <pubDate>Sat, 05 Sep 2026 16:33:49 GMT</pubDate>
+    </item>
     <item>
       <title>Easy 40 - Aerobic Frequency</title>
       <description>Follow the written workout plan with calm, accurate coaching. A 40-minute custom run with personalized coaching.</description>
