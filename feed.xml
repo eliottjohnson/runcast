@@ -7,7 +7,7 @@
     <link>https://eliottjohnson.github.io/runcast</link>
     <description>Personal guided runs, mixed and published by RunCast.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 07:50:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:25:23 GMT</lastBuildDate>
     <generator>RunCast</generator>
     <itunes:type>episodic</itunes:type>
     <itunes:block>yes</itunes:block>
@@ -21,6 +21,20 @@
     <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/podcast.jpg"/>
     <itunes:category text="Health &amp; Fitness"/>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://eliottjohnson.github.io/runcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>11 September - Long Easy 50 - Afternoon Rhythm</title>
+      <description>Friday 11 September 2026, around 15:30. Ten minutes of very easy walk-jog, thirty-five minutes of easy conversational running, and five minutes of walking. No pace target or fast finish. Calm coaching over your E1-E2 music library.</description>
+      <itunes:summary>Friday 11 September 2026, around 15:30. Ten minutes of very easy walk-jog, thirty-five minutes of easy conversational running, and five minutes of walking. No pace target or fast finish. Calm coaching over your E1-E2 music library.</itunes:summary>
+      <itunes:author>Eliottlerouge</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+      <itunes:duration>00:50:00</itunes:duration>
+      <itunes:image href="https://eliottjohnson.github.io/runcast/artwork/runcast-20260911easy.jpg"/>
+      <enclosure url="https://eliottjohnson.github.io/runcast/episodes/runcast-20260911easy.mp3" length="48210771" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-09-11-easy-50-1530</guid>
+      <pubDate>Fri, 11 Sep 2026 09:22:42 GMT</pubDate>
+    </item>
     <item>
       <title>Conditional Easy 35 - Before Standby</title>
       <description>Follow the written workout plan with calm, accurate coaching. A 35-minute custom run with personalized coaching.</description>
